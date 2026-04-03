@@ -4,6 +4,8 @@
 
 #pragma once
 
+#include <ArduinoJson/Namespace.hpp>
+
 ARDUINOJSON_BEGIN_PRIVATE_NAMESPACE
 
 namespace StringStoragePolicy {
